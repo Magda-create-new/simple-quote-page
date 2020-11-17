@@ -1,1 +1,24 @@
-{}
+body{
+   background-image: url(assets/morze.jpg);
+   background-attachment: fixed;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.paragraph{
+    text-align: center;
+    text-decoration-style: solid;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    width: 600px;
+    font-size: 20px
+}
+.author{
+    font-weight: bold;
+    text-align: center;
+    font-style: italic;
+    
+}
